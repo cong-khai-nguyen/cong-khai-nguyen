@@ -2,36 +2,23 @@
 
 ###
 
-<img align="right" height="328" src="https://gifdb.com/images/thumbnail/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"  />
+<p align="left">In my journey as a computer science student at the University of Houston, my passion for software engineering has been a constant companion, driving me to explore the vast possibilities within technology. My academic and professional experiences have offered me a playground to not only apply but also enhance my skills across a diverse technological landscape, including Java, JavaScript, TypeScript, Python, C#, and React. Through various internships, I've had the privilege of contributing to projects that span R&D, full-stack development, and data management, always with an eye towards creating more intuitive and efficient solutions. As I stand on the cusp of completing my education, my commitment is to continue evolving as a software engineer, leveraging my knowledge to solve real-world challenges.</p>
 
 ###
 
-<p align="left">In my journey as a computer science student at the University of Houston, my passion for software engineering has been a constant companion, driving me to explore the vast possibilities within technology. My academic and professional experiences have offered me a playground to not only apply but also enhance my skills across a diverse technological landscape, including Java, JavaScript, TypeScript, Python, C#, and React. Through various internships, I've had the privilege of contributing to projects that span R&D, full-stack development, and data management, always with an eye towards creating more intuitive and efficient solutions. As I stand on the cusp of completing my education, my commitment is to continue evolving as a software engineer, leveraging my knowledge to solve real-world challenges. In every project, my aim is to blend innovation with reliability, striving to exceed the expectations laid before me and contribute meaningfully to my team and the broader tech community.<br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h4 align="left">Connect with me:</h4>
 
 ###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 </div>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -83,6 +70,10 @@
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/cong-khai-nguyen/cong-khai-nguyen/output/snake.svg" alt="Snake animation" />
@@ -93,9 +84,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cong-khai-nguyen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cong-khai-nguyen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
