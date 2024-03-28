@@ -1,16 +1,27 @@
-<br clear="both">
-
-<div align="center">
-  <img height="380" src="https://gifdb.com/images/thumbnail/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"  />
-</div>
-
-###
-
 <h1 align="left">📚 Cong Nguyen</h1>
 
 ###
 
-<p align="left">In my journey as a computer science student at the University of Houston, my passion for software engineering has been a constant companion, driving me to explore the vast possibilities within technology. My academic and professional experiences have offered me a playground to not only apply but also enhance my skills across a diverse technological landscape, including Java, JavaScript, TypeScript, Python, C#, and React. Through various internships, I've had the privilege of contributing to projects that span R&D, full-stack development, and data management, always with an eye towards creating more intuitive and efficient solutions. As I stand on the cusp of completing my education, my commitment is to continue evolving as a software engineer, leveraging my knowledge to solve real-world challenges. In every project, my aim is to blend innovation with reliability, striving to exceed the expectations laid before me and contribute meaningfully to my team and the broader tech community.<br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<img align="right" height="217" src="https://gifdb.com/images/thumbnail/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"  />
+
+###
+
+<p align="left">In my journey as a computer science student at the University of Houston, my passion for software engineering has been a constant companion, driving me to explore the vast possibilities within technology. My academic and professional experiences have</p>
+
+###
+
+<br clear="both">
+
+<p align="left">offered me a playground to not only apply but also enhance my skills across a diverse technological landscape, including Java, JavaScript, TypeScript, Python, C#, and React. Through various internships, I've had the privilege of contributing to projects that span R&D, full-stack development, and data management, always with an eye towards creating more intuitive and efficient solutions. As I stand on the cusp of completing my education, my commitment is to continue evolving as a software engineer, leveraging my knowledge to solve real-world challenges. In every project, my aim is to blend innovation with reliability, striving to exceed the expectations laid before me and contribute meaningfully to my team and the broader tech community.<br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
 ###
 
@@ -22,11 +33,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -75,10 +86,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
