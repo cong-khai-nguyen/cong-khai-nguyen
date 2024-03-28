@@ -1,5 +1,5 @@
 <h1 align="left">📚 Cong Nguyen</h1>
-
+**`Software Developer`**
 ###
 
 <p align="left">In my journey as a computer science student at the University of Houston, my passion for software engineering has been a constant companion, driving me to explore the vast possibilities within technology. My academic and professional experiences have offered me a playground to not only apply but also enhance my skills across a diverse technological landscape, including Java, JavaScript, TypeScript, Python, C#, and React. Through various internships, I've had the privilege of contributing to projects that span R&D, full-stack development, and data management, always with an eye towards creating more intuitive and efficient solutions. As I stand on the cusp of completing my education, my commitment is to continue evolving as a software engineer, leveraging my knowledge to solve real-world challenges.</p>
