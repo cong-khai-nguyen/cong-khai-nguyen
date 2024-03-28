@@ -1,12 +1,12 @@
-<h1 align="left">📚 Cong Nguyen</h1>
-
-###
-
 <br clear="both">
 
 <div align="center">
-  <img height="304" src="https://gifdb.com/images/thumbnail/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"  />
+  <img height="380" src="https://gifdb.com/images/thumbnail/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif"  />
 </div>
+
+###
+
+<h1 align="left">📚 Cong Nguyen</h1>
 
 ###
 
